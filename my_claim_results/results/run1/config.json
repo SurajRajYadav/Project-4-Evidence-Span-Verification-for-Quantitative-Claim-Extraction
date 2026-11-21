@@ -1,0 +1,17 @@
+{
+  "gold": "data/gold_A.jsonl",
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "methods": [
+    "zero_shot_text",
+    "zero_shot_json",
+    "few_shot_json",
+    "rag_json",
+    "lora_json",
+    "regex_baseline"
+  ],
+  "folds": 5,
+  "k_demos": 3,
+  "epochs": 3,
+  "seed": 42,
+  "n_docs": 121
+}

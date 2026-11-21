@@ -1,0 +1,4 @@
+method,n,ECE,Brier,mean_conf,accuracy
+zero_shot_json,194,0.007,0.030,0.98,0.97
+few_shot_json,162,0.672,0.627,0.90,0.23
+rag_json,149,0.653,0.612,0.90,0.25

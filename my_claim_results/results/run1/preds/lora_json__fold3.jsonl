@@ -1,0 +1,24 @@
+{"id": "2609.31175v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2606.29220v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2601.04418v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.12660v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2606.29061v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2601.03022v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.12256v2", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.13984v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2512.02938v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2606.30125v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.16018v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2512.00603v2", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2602.04280v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.15065v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2602.04106v2", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2606.18449v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2609.29110v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.13458v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2606.26838v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2606.16702v2", "raw": "[{\"material\": \"Cr3+-derived photoluminescence in CrCl3\", \"property\": \"relaxation dynamics\", \"value\": \"strongly sensitive\", \"unit\": \"\", \"evidence\": \"In this work, we demonstrate that Cr3+-derived photoluminescence in CrCl3 is spectrally thickness-independent, but its relaxation dynamics are strongly sensitive to thickness and temperature\"}, {\"material\": \"Cr3+-derived photoluminescence in CrCl3\", \"property\": \"effective out-of-plane diffusivity\", \"value\": \"4.5 x 10-6 cm2/s\", \"unit\": \"\", \"evidence\": \"A diffusion-coupled surface recombination model reveals an effective out-of-plane diffusivity of 4.5 x 10-6 cm2/s for the ligand-field excitons\"}]", "records": [{"material": "Cr3+-derived photoluminescence in CrCl3", "property": "relaxation dynamics", "value": "strongly sensitive", "unit": "", "evidence": "In this work, we demonstrate that Cr3+-derived photoluminescence in CrCl3 is spectrally thickness-independent, but its relaxation dynamics are strongly sensitive to thickness and temperature", "confidence": null}, {"material": "Cr3+-derived photoluminescence in CrCl3", "property": "effective out-of-plane diffusivity", "value": "4.5 x 10-6 cm2/s", "unit": "", "evidence": "A diffusion-coupled surface recombination model reveals an effective out-of-plane diffusivity of 4.5 x 10-6 cm2/s for the ligand-field excitons", "confidence": null}], "parse_ok": true}
+{"id": "2609.31899v2", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2605.15883v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2512.02430v1", "raw": "[]", "records": [], "parse_ok": true}
+{"id": "2512.00731v1", "raw": "[]", "records": [], "parse_ok": true}

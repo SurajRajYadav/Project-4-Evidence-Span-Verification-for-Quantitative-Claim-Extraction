@@ -1,0 +1,11 @@
+method,hallucinated_value,hallucinated_unit,wrong_unit,wrong_material,wrong_property,spurious_claim,missed_claim,field_error
+zero_shot_text,80,28,5,6,2,76,154,23
+zero_shot_json,5,0,0,0,0,1,5,1
+few_shot_json,97,0,5,0,2,21,135,22
+rag_json,89,0,5,1,1,16,138,19
+lora_json,6,0,0,0,0,0,187,1
+regex_baseline,2,0,3,15,0,344,176,18
+zero_shot_json+verify,0,0,0,0,0,0,145,1
+few_shot_json+verify,0,0,4,0,2,14,177,6
+rag_json+verify,0,0,5,1,0,15,172,7
+lora_json+verify,0,0,0,0,0,0,194,0
